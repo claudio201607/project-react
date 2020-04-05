@@ -30,7 +30,7 @@ class Home extends Component {
     </Card.Footer>
   </Card>
   <Card>
-    <Card.Img variant="top" src="images/web.jpeg" />
+    <Card.Img variant="top" src="images/soporte.jpg" />
     <Card.Body>
       <Card.Title>Soporte Informatico</Card.Title>
       <Card.Text>
